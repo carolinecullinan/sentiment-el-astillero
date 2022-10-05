@@ -1,0 +1,5 @@
+### Photo Voices at Casa Congo: A Look at How the El Astillero Community Understands and Experiences Human-Nature Interactions
+#### An analysis of interviews conducted with Photo Voice Project participants from the El Astillero community
+
+
+In an effort to understand how community members of El Astillero experience and understand human-nature interactions, the Photo Voice Project was conducted. Eight local participants were given disposable cameras and instructed to capture aspects of their environment that called to the human-nature experience in the El Astillero community. Upon taking and developing the photos, each participant was interviewed. During interviews, participant provided commentary on the photos in which they captured. In an effort to scientifically quantify how El Astillero understands and experiences human-nature interactions, qualitative analysis was performed on the interview data collected.  For the accompanying Observable notebook see [this link](https://observablehq.com/@carolinecullinan/photo-voices-at-casa-congo)
